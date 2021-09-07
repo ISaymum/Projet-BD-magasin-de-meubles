@@ -6,4 +6,6 @@ Il s'agit d'une application gérant un magasin de meubles. Elle a été dévelop
 
 ![Commande_meubles](https://user-images.githubusercontent.com/89934650/132339351-1b3ad361-d071-4755-8ea5-2826316d68a9.png)
 
+![Details_meubles](https://user-images.githubusercontent.com/89934650/132339523-2b3e7a5f-086b-4d85-b701-5867fd7ad373.png)
+
 
