@@ -1,0 +1,10 @@
+Nom meuble : Armoire
+Nom client :  Messi
+ 
+Nom meuble : Table
+Nom client :  Bezos
+ 
+Nom meuble : Comode
+Nom client :  Bezos
+ 
+Nom meuble : Chaise

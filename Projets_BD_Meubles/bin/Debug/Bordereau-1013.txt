@@ -1,0 +1,21 @@
+-------------------BORDEREAU-------------------
+
+--------Numéro de bordereau     :    1013
+
+--------Article                 :    Table
+
+--------Quantité                :    60
+
+--------Prix unitaire           :    300 €
+
+--------Prix total              :    18000 €
+
+--------Date d' achat           :    03-06-21
+
+--------Nom                     :    Bezos
+
+--------Prénom                  :    Jeff
+
+--------Fournisseur             :    Le roi du Matelas
+
+---------------------------------------------

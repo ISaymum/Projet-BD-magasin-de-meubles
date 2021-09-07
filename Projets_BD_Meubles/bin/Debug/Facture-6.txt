@@ -1,0 +1,17 @@
+-------------------FACTURE-------------------
+
+--------Numéro de facture       :    6
+
+--------Quantité                :    6
+
+--------Prix unitaire           :    200 €
+
+--------Prix total              :    1200 €
+
+--------Date d' achat           :    03-06-21
+
+--------Identifiant Client      :    4
+
+--------Identifiant Fournisseur :    1
+
+---------------------------------------------

@@ -1,0 +1,17 @@
+***************FACTURE*****************
+
+        Numéro de facture       :    1014
+
+        Article                 :    Chaise
+
+        Quantité                :    2
+
+        Prix                    :    50 €
+
+        Date d' achat           :    04-06-21
+
+        Nom                     :    Ronaldo
+
+        Prénom                  :    Cristiano
+
+*************************************

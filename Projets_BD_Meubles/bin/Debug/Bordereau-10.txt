@@ -1,0 +1,21 @@
+-------------------BORDEREAU-------------------
+
+--------Numéro de bordereau     :    10
+
+--------Article                 :    Armoire
+
+--------Quantité                :    200
+
+--------Prix unitaire           :    65 €
+
+--------Prix total              :    13000 €
+
+--------Date d' achat           :    10-06-21
+
+--------Nom                     :    Hammani
+
+--------Prénom                  :    Marouane
+
+--------Fournisseur             :    Le Roi du Matelas
+
+---------------------------------------------
